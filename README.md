@@ -1,3 +1,5 @@
+# Adventure Works Data Analytics
+
 ## Project Overview
 
 This repository contains a comprehensive Power BI dashboard that provides business insights into sales performance, order details, customer demographics, financial trends, and drill-through data analysis for Adventure Works.
